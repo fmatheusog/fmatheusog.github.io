@@ -12,6 +12,11 @@ body {
     font-size: 16px;
 }
 
+.content-text strong {
+    font-size: 18px;
+    color: red;
+}
+
 .rounded-image {
     width: 150px;
     border-radius: 50%;
