@@ -22,6 +22,21 @@ body {
     border-radius: 50%;
 }
 
+.item-1 {
+    color: #8d6b94;
+}
+
+.item-2 {
+    color: #b185a7;
+}
+
+.item-3 {
+    color: #c3a29e    
+}
+
+.item-4 {
+    color: #e2a0ff;    
+}
 
 #resumo {
     font-size: 16px;
