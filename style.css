@@ -13,6 +13,12 @@ body {
 
 .header-text {
     width: 800px;
+    padding: 30px;
+}
+
+.header-image {
+    padding: 30px;
+    background-color: #ffc1cf;
 }
 
 .content-title {
