@@ -3,6 +3,18 @@ body {
     background-color: #99edcc;
 }
 
+.header-top {
+    text-align: center;
+}
+
+.header-content {
+    display: flex;
+}
+
+.header-text {
+    width: 800px;
+}
+
 .content-title {
     font-size: 24px;
 }
