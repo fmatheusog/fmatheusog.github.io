@@ -3,6 +3,24 @@ body {
     background-color: #99edcc;
 }
 
+.header-top {
+    text-align: center;
+}
+
+.header-content {
+    display: flex;
+}
+
+.header-text {
+    width: 800px;
+    padding: 30px;
+}
+
+.header-image {
+    padding: 30px;
+    background-color: #ffc1cf;
+}
+
 .content-title {
     font-size: 24px;
 }
